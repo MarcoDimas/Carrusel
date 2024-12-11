@@ -1,0 +1,22 @@
+{
+    "name": "CARRUSEL",
+    "short_name": "Carrusel",
+    "description": "Página informativa sobre carrusel de fotos de los nollios",
+    "start_url": "/Carrusel/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#ff0000",
+    "icons": [
+      {
+        "src": "assets/icon-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
