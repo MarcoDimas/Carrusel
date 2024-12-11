@@ -10,6 +10,7 @@ const cacheAssets = [
   '/assets/m1.jpg',
   '/assets/m2.jpg',
   '/assets/m3.jpg',
+  '/assets/m4.jpg',
   '/views/home.html',        
 
   
